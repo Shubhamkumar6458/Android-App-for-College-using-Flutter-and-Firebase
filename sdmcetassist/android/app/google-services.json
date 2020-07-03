@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "167812523357",
+    "firebase_url": "https://sdmcet-assist.firebaseio.com",
+    "project_id": "sdmcet-assist",
+    "storage_bucket": "sdmcet-assist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167812523357:android:f938a3cc09fbf305a434b4",
+        "android_client_info": {
+          "package_name": "com.sdmcetassistflutterapp.sdmcetassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167812523357-dopiauuhf0ril08hehcnmvgo7p3j6m94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcAIEgg9ipuR-r3WKpwlteOU3zMpXE5nY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167812523357-dopiauuhf0ril08hehcnmvgo7p3j6m94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
