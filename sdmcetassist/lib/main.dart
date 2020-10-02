@@ -3,7 +3,7 @@ import 'package:sdmcetassist/services/auth.dart';
 import 'package:sdmcetassist/screens/wrapper.dart';
 import 'package:flutter/material.dart';
 import 'package:sdmcetassist/models/user.dart';
-//import 'package:firebase_auth/firebase_auth.dart';
+
 import 'package:firebase_messaging/firebase_messaging.dart';
 
 void main() => runApp(MyApp());
